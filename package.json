@@ -1,6 +1,6 @@
 {
   "name": "azure-file-module-provider",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple file module provider for Azure Blob Storage.",
   "author": "ahgentil",
   "license": "MIT",
